@@ -1,0 +1,1 @@
+export const valores = [1,2]
